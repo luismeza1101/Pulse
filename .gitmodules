@@ -1,0 +1,6 @@
+[submodule "front"]
+	path = front
+	url = https://github.com/luismeza1101/Pulse_Front.git
+[submodule "back"]
+	path = back
+	url = https://github.com/luismeza1101/Pulse_Back.git
